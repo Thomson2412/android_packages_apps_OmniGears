@@ -79,11 +79,10 @@ public class ButtonSettings extends SettingsPreferenceFragment implements OnPref
     private static final String CATEGORY_APPSWITCH = "button_keys_appSwitch";
 
     private static final String BUTTON_VOLUME_WAKE = "button_volume_wake_screen";
-    private static final String BUTTON_VOLUME_MUSIC_CONTROL = "volbtn_music_controls";
     private static final String BUTTON_HOME_WAKE = "button_home_wake_screen";
     private static final String BUTTON_HOME_ANSWERS_CALL = "button_home_answers_call";
 //    private static final String BUTTON_VOLUME_DEFAULT = "button_volume_default_screen";
-//    private static final String BUTTON_VOLUME_MUSIC_CONTROL = "button_volume_music_control";
+    private static final String BUTTON_VOLUME_MUSIC_CONTROL = "button_volume_music_control";
 //    private static final String VOLUME_KEY_CURSOR_CONTROL = "volume_key_cursor_control";
     private static final String SWAP_VOLUME_BUTTONS = "swap_volume_buttons";
 //    private static final String CATEGORY_HEADSETHOOK = "button_headsethook";
